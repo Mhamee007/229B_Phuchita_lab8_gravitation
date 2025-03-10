@@ -6,7 +6,7 @@ public class GavityB : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     Rigidbody rb;
-    const float G = 0.0006674f;
+    const float G = 0.00006674f;
     public static List<GavityB> otherObjectsList;
 
     private void Awake()
